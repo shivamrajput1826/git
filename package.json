@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vibe.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamrajput1826/git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamrajput1826/git/issues"
+  },
+  "homepage": "https://github.com/shivamrajput1826/git#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
